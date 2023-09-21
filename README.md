@@ -34,7 +34,7 @@ INFO:     Application startup complete.
 ```
 ### POST
 - [/predict]() <br>
-  **description:** return prediction made by model from given text <br>
+  **description:** return prediction(True|False) made by model from given text <br>
   **body:**
   ```json
   {
